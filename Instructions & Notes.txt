@@ -1,0 +1,22 @@
+AMIT-Learning (H-18 Group) Smart Home Project
+Made By: Zeyad Ayman
+
+General Note:   #Capital Letters are for "ON", and Small Letters are for "OFF" !!
+
+Instructions:
+-----------------------
+'A' ===> Room A  Lights ON
+'a' ===> Room A  Lights OFF
+
+'B' ===> Room B  Lights ON
+'b' ===> Room B  Lights OFF
+
+'C' ===> Room C  Lights ON
+'c' ===> Room C  Lights OFF
+
+'T' ===> A.C. Sys. ON, Setting Temp.
+'t' ===> A.C. Sys. OFF
+
+'F' ===> A.C. Fan ON
+'f' ===> A.C. Fan OFF
+
